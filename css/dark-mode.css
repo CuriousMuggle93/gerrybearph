@@ -147,7 +147,7 @@ h1.mil-h1-md,
 
 h2,
 .mil-h2 {
-  font-size: 38px;
+  font-size: 1.8em;
 }
 @media screen and (max-width: 768px) {
   h2,
